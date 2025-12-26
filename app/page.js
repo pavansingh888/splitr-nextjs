@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 
 export default function Home() {
   return (
-    <div className="">
+    <div className="pt-16">
       Welcome to Splitr!
       <br />
       The smartest way to split bills and expenses with friends.
